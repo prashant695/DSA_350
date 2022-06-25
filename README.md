@@ -2,38 +2,42 @@
 # Data Structures and Algorithms 
 
 
-##  Tree 
-* Inorder Traversal of a Binary Tree using Recursion
-* Inorder Traversal of a Binary Tree without Recursion
-* Preorder Traversal of a Binary Tree using Recursion
-* Preorder Traversal of a Binary Tree without Recursion
-* Postorder Traversal of a Binary Tree using Recursion
-* Postorder Traversal of a Binary Tree without Recursion
-* Level Order Traversal of a Binary Tree
-* Reverse Level Order Traversal of a Binary Tree
-* Height of a Binary Tree
-* Mirror of a Tree
-* Invert Binary Tree
-* Cousins in a Binary Tree
-* Left view of a Tree
-* Right view of a Tree
-* Top view of a Tree
-* Bottom view of a Tree
-* Boundary Traversal of a tree
-* Diagonal Traversal of a tree
-* Diameter of a binary Tree
-* LCA of a binary tree
-* Convert binary tree into sum tree
-* Sum root to leaf numbers
-* Path sum
-* Min Depth of binary Tree
-* Check if all leaf nodes are present on the same level or not
-* Check if a binary tree is a subtree of another tree
-* Construct Binary Tree from given inorder and preorder traversal
-* Construct Binary Tree from given inorder and postorder
-* Binary Tree into DLL
-* Kth ancestor of a node in a Binary Tree
-* Check if a tree is balanced or not
+## Array and Matrices
+* Find the maximum and minimum element of an array		
+* Check if array is sorted or not		
+* Leaders in an array		
+* Maximum difference problem		
+* Frequencies in sorted array		
+* Given an array of 0s, 1s and 2s, sort it in O(n) time		
+* Move all the negative elements to one side of the array		
+* Find the union and intersections of two arrays		
+* Cyclic rotation of array		
+* Find duplicates in array		
+* Next Permutation		
+* Count inversions		
+* Find common elements in 3 sorted arrays		
+* Merge intervals		
+* Trapping rainwater problem		
+* Spiral traversal on a matrix		
+* Search an element in a sorted matrix (row and col are sorted)		
+* Search an element in a sorted matrix (sorted as 1d)		
+* Find row with maximum number of 1s		
+* Find a specific pair in a matrix	
+* Rotate matrix by 90 degrees		
+* Zero matrix
+
+
+## BackTracking
+* Rat in a Maze Problem
+* N- Queen Problem
+* Print all solutions of N – queen
+* Remove Invalid parenthesis
+* Subset sum Problem
+* Combinational Sum
+* Print all permutations of an array
+* Print all permutations of a string
+* Tug of War
+* The Knight Tour Problem
 
 
 ##  Binary Search Trees 
@@ -57,84 +61,6 @@
 * Convert BST into balanced BST
 * Merge two BSTs
 * Replace every node with the least greatest node in the BST
-
-
-## Graph
-* Construct a graph from given data and run DFS
-* Implement BFS algorithm
-* Detect cycle in directed graph using DFS
-* Detect cycle in directed graph using BFS
-* Detect cycle in undirected graph using DFS
-* Detect cycle in undirected graph using BFS
-* Find the town judge
-* Flood fill
-* Word Search
-* Knight on chess board
-* Word Ladder 1
-* Word Ladder 2
-* Connected Components
-* Count islands
-* Count enclosed islands
-* Clone a graph
-* Dijkstra’s algorithm
-* Network Delay Time
-* Cheapest flights within k stops
-* Bellman Ford Algorithms
-* Network Delay Time
-* Cheapest flights with k stops
-* Detecting negative cycle using Bellman Ford Algorithm
-* Floyd Warshall Algorithm
-* Implement Topological Sort
-* Course Schedule 1
-* Course Schedule 2
-* Alien Dictionary
-* Water Jug Problem using BFS
-* Prim’s Algorithm
-* Min Cost to connect all points
-* Min cost to connect all servers
-* Disjoint set Union
-* Kruskal’s algorithm
-* Min cost to connect all points
-* Tarjan’s algorithm
-* Find articulation point in a network
-* Check whether a graph contains cycle or not using graph colouring technique
-* Check whether a graph is a tree or not
-* All Paths from source to target
-* Bipartite graph
-* Ants and the community problem
-* Stepping Numbers
-* Largest Distance between two nodes of a tree
-
-
-## Linked List
-* Reverse a Linked List
-* Middle of the Linked List
-* Delete Node in a Linked List
-* Merge Two Sorted Linked List
-* Remove duplicates from sorted list
-* Intersection of two linked list
-* Linked List Cycle
-* Palindrome Linked List
-* Swapping Nodes in a Linked List
-* Odd Even Linked List
-* Remove nth node from Linked List
-* Add Two Numbers
-* Swap Nodes in Pairs
-* Split Linked List in Parts
-* Insertion sort on Linked List
-* Merge sort on Linked List
-* Copy list with random pointers
-* Remove zero sum from consecutive nodes from linked list
-* Merge k sorted Linked List
-* Reverse nodes in k group
-* Doubly Linked List
-* Adding a node at the front, at the end, after a node or before a node
-* Deleting a node from the front, from the end, after a node or before a node
-* Circular Doubly Linked List
-* Adding a node at the front, at the end, after a node or before a node
-* Deleting a node from the front, from the end, after a node or before a node
-* LRU Cache
-* LFU Cache
 
 
 ## Dynamic Programming
@@ -190,93 +116,51 @@
 * LPS (string)
 
 
-## BackTracking
-* Rat in a Maze Problem
-* N- Queen Problem
-* Print all solutions of N – queen
-* Remove Invalid parenthesis
-* Subset sum Problem
-* Combinational Sum
-* Print all permutations of an array
-* Print all permutations of a string
-* Tug of War
-* The Knight Tour Problem
-
-
-## Heap
-* Implement a Max Heap
-* Implement a Min Heap
-* Implement Heap sort
-* Kth largest element in array
-* Kth smallest element in an array
-* Merge 2 sorted arrays
-* Maximum of all subarrays of size k
-* Merge k sorted arrays
-* Merge k sorted linked list
-* Connect n ropes with minimum cost
-* Check if a binary tree is a heap or not
-* Rearrange characters in a string such that not two characters are adjacent
-* Running median
-
-
-## Searching & Sorting
-* Binary Search Iterative
-* Binary Search Recursive
-* Find the index of first occurrence in a sorted array
-* Find the index of last occurrence in a sorted array
-* Find a fixed point i.e. value equal to index in a sorted array
-* Square root of an integer
-* Count of occurrences of x in sorted element
-* Count of s in a sorted array
-* Peak element
-* Find an element in an infinite size sorted array
-* Find the repeating and missing
-* Find majority element
-* Insertion sort
-* Counting sort
-* Merge sort
-* Quick sort
-* Find a pair with given difference
-* Find three values that sum to 0
-* Find three values that sum closest to target
-* Find four elements that sum to a given value
-* Search in a rotated sorted array
-* Median of two sorted arrays of same size
-* Median of two sorted arrays of different size
-
-
-## Array and Matrices
-* Find the maximum and minimum element of an array		
-* Check if array is sorted or not		
-* Leaders in an array		
-* Maximum difference problem		
-* Frequencies in sorted array		
-* Given an array of 0s, 1s and 2s, sort it in O(n) time		
-* Move all the negative elements to one side of the array		
-* Find the union and intersections of two arrays		
-* Cyclic rotation of array		
-* Find duplicates in array		
-* Next Permutation		
-* Count inversions		
-* Find common elements in 3 sorted arrays		
-* Merge intervals		
-* Trapping rainwater problem		
-* Spiral traversal on a matrix		
-* Search an element in a sorted matrix (row and col are sorted)		
-* Search an element in a sorted matrix (sorted as 1d)		
-* Find row with maximum number of 1s		
-* Find a specific pair in a matrix	
-* Rotate matrix by 90 degrees		
-* Zero matrix	
-
-
-## Trie
-* Construct a trie from scratch
-* Design add and search words data structure
-* Replace words
-* Top k frequent words
-* Prefix and suffix search
-* Maximum XOR of Two Numbers in an Array
+## Graph
+* Construct a graph from given data and run DFS
+* Implement BFS algorithm
+* Detect cycle in directed graph using DFS
+* Detect cycle in directed graph using BFS
+* Detect cycle in undirected graph using DFS
+* Detect cycle in undirected graph using BFS
+* Find the town judge
+* Flood fill
+* Word Search
+* Knight on chess board
+* Word Ladder 1
+* Word Ladder 2
+* Connected Components
+* Count islands
+* Count enclosed islands
+* Clone a graph
+* Dijkstra’s algorithm
+* Network Delay Time
+* Cheapest flights within k stops
+* Bellman Ford Algorithms
+* Network Delay Time
+* Cheapest flights with k stops
+* Detecting negative cycle using Bellman Ford Algorithm
+* Floyd Warshall Algorithm
+* Implement Topological Sort
+* Course Schedule 1
+* Course Schedule 2
+* Alien Dictionary
+* Water Jug Problem using BFS
+* Prim’s Algorithm
+* Min Cost to connect all points
+* Min cost to connect all servers
+* Disjoint set Union
+* Kruskal’s algorithm
+* Min cost to connect all points
+* Tarjan’s algorithm
+* Find articulation point in a network
+* Check whether a graph contains cycle or not using graph colouring technique
+* Check whether a graph is a tree or not
+* All Paths from source to target
+* Bipartite graph
+* Ants and the community problem
+* Stepping Numbers
+* Largest Distance between two nodes of a tree
 
 
 ## Greedy
@@ -301,23 +185,6 @@
 * Jump game 2
 * Remove k digits
 * Candy
-
-
-## Stack And Queue
-* Implement stack using linked list
-* Implement queue using linked list
-* Balanced Parenthesis
-* Two stacks in an array
-* K stacks in an array
-* Next Greater element
-* Next Smaller element
-* Min stack
-* Largest Rectangular area in a histogram
-* Stock span
-* Infix to postfix
-* Infix to prefix
-* Reversing a queue
-* Generate numbers with given digits
 
 
 ## HashMaps
@@ -347,12 +214,102 @@
 * Pairs with given sum in sorted matrix
 
 
+## Heap
+* Implement a Max Heap
+* Implement a Min Heap
+* Implement Heap sort
+* Kth largest element in array
+* Kth smallest element in an array
+* Merge 2 sorted arrays
+* Maximum of all subarrays of size k
+* Merge k sorted arrays
+* Merge k sorted linked list
+* Connect n ropes with minimum cost
+* Check if a binary tree is a heap or not
+* Rearrange characters in a string such that not two characters are adjacent
+* Running median
+
+
+## Linked List
+* Reverse a Linked List
+* Middle of the Linked List
+* Delete Node in a Linked List
+* Merge Two Sorted Linked List
+* Remove duplicates from sorted list
+* Intersection of two linked list
+* Linked List Cycle
+* Palindrome Linked List
+* Swapping Nodes in a Linked List
+* Odd Even Linked List
+* Remove nth node from Linked List
+* Add Two Numbers
+* Swap Nodes in Pairs
+* Split Linked List in Parts
+* Insertion sort on Linked List
+* Merge sort on Linked List
+* Copy list with random pointers
+* Remove zero sum from consecutive nodes from linked list
+* Merge k sorted Linked List
+* Reverse nodes in k group
+* Doubly Linked List
+* Adding a node at the front, at the end, after a node or before a node
+* Deleting a node from the front, from the end, after a node or before a node
+* Circular Doubly Linked List
+* Adding a node at the front, at the end, after a node or before a node
+* Deleting a node from the front, from the end, after a node or before a node
+* LRU Cache
+* LFU Cache
+
+
 ## Recursion
 * Length of an array using recursion
 * Searching an element using recursion
 * Letter combinations of a Phone number
 * Josephus problem
 * Kth symbol in grammar
+
+
+## Searching & Sorting
+* Binary Search Iterative
+* Binary Search Recursive
+* Find the index of first occurrence in a sorted array
+* Find the index of last occurrence in a sorted array
+* Find a fixed point i.e. value equal to index in a sorted array
+* Square root of an integer
+* Count of occurrences of x in sorted element
+* Count of s in a sorted array
+* Peak element
+* Find an element in an infinite size sorted array
+* Find the repeating and missing
+* Find majority element
+* Insertion sort
+* Counting sort
+* Merge sort
+* Quick sort
+* Find a pair with given difference
+* Find three values that sum to 0
+* Find three values that sum closest to target
+* Find four elements that sum to a given value
+* Search in a rotated sorted array
+* Median of two sorted arrays of same size
+* Median of two sorted arrays of different size
+
+
+## Stack And Queue
+* Implement stack using linked list
+* Implement queue using linked list
+* Balanced Parenthesis
+* Two stacks in an array
+* K stacks in an array
+* Next Greater element
+* Next Smaller element
+* Min stack
+* Largest Rectangular area in a histogram
+* Stock span
+* Infix to postfix
+* Infix to prefix
+* Reversing a queue
+* Generate numbers with given digits
 
 
 ## Strings
@@ -386,3 +343,46 @@
 * Basic Calculator 2
 * Zigzag conversion
 * Decode Ways
+
+
+##  Tree 
+* Inorder Traversal of a Binary Tree using Recursion
+* Inorder Traversal of a Binary Tree without Recursion
+* Preorder Traversal of a Binary Tree using Recursion
+* Preorder Traversal of a Binary Tree without Recursion
+* Postorder Traversal of a Binary Tree using Recursion
+* Postorder Traversal of a Binary Tree without Recursion
+* Level Order Traversal of a Binary Tree
+* Reverse Level Order Traversal of a Binary Tree
+* Height of a Binary Tree
+* Mirror of a Tree
+* Invert Binary Tree
+* Cousins in a Binary Tree
+* Left view of a Tree
+* Right view of a Tree
+* Top view of a Tree
+* Bottom view of a Tree
+* Boundary Traversal of a tree
+* Diagonal Traversal of a tree
+* Diameter of a binary Tree
+* LCA of a binary tree
+* Convert binary tree into sum tree
+* Sum root to leaf numbers
+* Path sum
+* Min Depth of binary Tree
+* Check if all leaf nodes are present on the same level or not
+* Check if a binary tree is a subtree of another tree
+* Construct Binary Tree from given inorder and preorder traversal
+* Construct Binary Tree from given inorder and postorder
+* Binary Tree into DLL
+* Kth ancestor of a node in a Binary Tree
+* Check if a tree is balanced or not
+
+
+## Trie
+* Construct a trie from scratch
+* Design add and search words data structure
+* Replace words
+* Top k frequent words
+* Prefix and suffix search
+* Maximum XOR of Two Numbers in an Array
