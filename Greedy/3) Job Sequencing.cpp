@@ -7,6 +7,7 @@ struct Job
     int profit; // Profit if job is over before or on deadline
 };
 */
+
 // d's ->deadline maximum value
 // Time Complexity : O(n*d+nlogn)
 // Space Complexity : O(d)
